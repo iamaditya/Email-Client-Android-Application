@@ -31,9 +31,7 @@ git clone https://github.com/iamaditya/Email-Client-Android-Application.git
 ## Screenshots
 <div style="text-align: center;">
   <img src="img/1.png" alt="Login Page" height="850" width="420">
-
   <img src="img/2.png" alt="Compose Page" height="850" width="420">
-
 </div>
 
 

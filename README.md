@@ -28,6 +28,10 @@ git clone https://github.com/iamaditya/Email-Client-Android-Application.git
 4. 📜 Enter the subject and body of the email in the respective fields.
 5. 💌 Tap the "Send" button to send the email.
 
+## Screenshots
+![Login Page](img/1.png)
+![Compose Page](img/2.png)
+
 ## Contributing
 🤝 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to submit a pull request.
 

@@ -34,8 +34,13 @@ git clone https://github.com/iamaditya/Email-Client-Android-Application.git
   <img src="img/2.png" alt="Compose Page" height="850" width="400">
 </div>
 
-
-
+*CONFIGURED FOR GMAIL CLIENT*
+```
+        props.put("mail.smtp.auth", "true");
+        props.put("mail.smtp.starttls.enable", "true");
+        props.put("mail.smtp.host", "smtp.gmail.com");
+        props.put("mail.smtp.port", "587");
+```
 ## Contributing
 🤝 Contributions are welcome! If you find any issues or want to enhance the functionality, feel free to submit a pull request.
 

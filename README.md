@@ -29,8 +29,12 @@ git clone https://github.com/iamaditya/Email-Client-Android-Application.git
 5. 💌 Tap the "Send" button to send the email.
 
 ## Screenshots
-<img src="img/1.png" alt="Alt Text" height="500" width="300" center>
-<img src="img/2.png" alt="Alt Text" height="500" width="300" center>
+<div style="text-align: center;">
+  <img src="img/1.png" alt="Login Page" height="900" width="300">
+  <img src="img/2.png"alt="Compose Page" height="900" width="300">
+
+</div>
+
 
 
 ## Contributing

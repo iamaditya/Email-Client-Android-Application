@@ -35,6 +35,4 @@ git clone https://github.com/iamaditya/Email-Client-Android-Application.git
 This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
-- [Postgres](https://www.postgresql.org/)
-- [Java JDBC](https://www.javatpoint.com/java-jdbc/)
 - [JavaMail API](https://javaee.github.io/javamail/)
